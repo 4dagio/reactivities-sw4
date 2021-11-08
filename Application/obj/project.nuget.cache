@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+9Nzh1HGI+B5ACClX/3LAAHyh7Sszj/SatfguOPhdbdltuKZj0HOd2afdPT7rY0/sNih0XA29rPLj6JXI6w+KQ==",
+  "dgSpecHash": "32M6uyca9SV7myRl/pxGLHkj8ds07J0x0y+5GNmXEyx+y+VBRwtdjQeCDaZ8dx7geWYAoSyT1mTMn9rIKlEw+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\4dagi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\4dagi\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\4dagi\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\4dagi\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\4dagi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
